@@ -12,9 +12,15 @@
 (📫) => {
   return "Questions ->" <dannielnavas@gmail.com>.
 }
-- ⚡ => Anime and science fiction fan.  
-- 🎧 => [Playlist Spotify](https://open.spotify.com/user/darker13-co).  
-- 🖥 => [Personal page](https://dannielnavasportafolio.herokuapp.com/).  
+(⚡) => {
+  return "Anime and science fiction fan."
+}
+(🎧) => {
+  return "[Playlist Spotify](https://open.spotify.com/user/darker13-co)."
+}
+(🖥) => {
+  return [Personal page](https://dannielnavasportafolio.herokuapp.com/).
+}
 ```
 <!--
 **DannielNavas/DannielNavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
