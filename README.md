@@ -1,5 +1,5 @@
 ### Hello I'am Danniel Navas 👋
-```
+```javascript
 (💻) => {
   return "Frontend developer.";
 }
