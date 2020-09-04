@@ -11,7 +11,7 @@
 }
 (📫) => {
   // "Questions ->" 
-  window.location.href = "dannielnavas@gmail.com>."
+  window.location.href = "dannielnavas@gmail.com>.";
 }
 (⚡) => {
   return "Anime and science fiction fan."
@@ -20,7 +20,7 @@
   window.open('https://open.spotify.com/user/darker13-co');
 }
 (🖥) => {
-  window.open(https://dannielnavasportafolio.herokuapp.com/).
+  window.open('https://dannielnavasportafolio.herokuapp.com/');
 }
 ```
 <!--
