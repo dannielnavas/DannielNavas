@@ -10,16 +10,17 @@
   return "Space fanatic.";
 }
 (📫) => {
-  return "Questions ->" <dannielnavas@gmail.com>.
+  // "Questions ->" 
+  window.location.href = "dannielnavas@gmail.com>."
 }
 (⚡) => {
   return "Anime and science fiction fan."
 }
 (🎧) => {
-  return "[Playlist Spotify](https://open.spotify.com/user/darker13-co)."
+  window.open('https://open.spotify.com/user/darker13-co');
 }
 (🖥) => {
-  return [Personal page](https://dannielnavasportafolio.herokuapp.com/).
+  window.open(https://dannielnavasportafolio.herokuapp.com/).
 }
 ```
 <!--
