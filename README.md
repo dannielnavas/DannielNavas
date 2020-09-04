@@ -1,12 +1,12 @@
 ### Hello I'am Danniel Navas 👋
 
-- 💻 Frontend developer.  
-- 💖 Husband and father.  
-- 🔭 Space fanatic.  
-- 📫 Questions -> <dannielnavas@gmail.com>.  
-- ⚡ Anime and science fiction fan.  
-- 🎧 [Playlist Spotify](https://open.spotify.com/user/darker13-co).  
-- 🖥 [Personal page](https://dannielnavasportafolio.herokuapp.com/).  
+- 💻 => Frontend developer.  
+- 💖 => Husband and father.  
+- 🔭 => Space fanatic.  
+- 📫 => Questions -> <dannielnavas@gmail.com>.  
+- ⚡ => Anime and science fiction fan.  
+- 🎧 => [Playlist Spotify](https://open.spotify.com/user/darker13-co).  
+- 🖥 => [Personal page](https://dannielnavasportafolio.herokuapp.com/).  
 <!--
 **DannielNavas/DannielNavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
