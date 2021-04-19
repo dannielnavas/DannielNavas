@@ -11,7 +11,7 @@
 }
 (📫) => {
   // "Questions ->" 
-  window.location.href = "dannielnavas@gmail.com>.";
+  window.location.href = "dannielnavas@gmail.com";
 }
 (⚡) => {
   return "Anime and science fiction fan."
