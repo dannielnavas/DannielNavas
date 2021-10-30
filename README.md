@@ -16,11 +16,11 @@
 (💻) => {
   return "Frontend developer.";
 }
-(💖) => {
-  return "Husband and father.";
-}
 (🔭) => {
   return "Space fanatic.";
+}
+(💖) => {
+  return "Husband and father.";
 }
 (📫) => {
   // "Questions ->" 
@@ -33,7 +33,7 @@
   window.open('https://open.spotify.com/user/darker13-co');
 }
 (🖥) => {
-  window.open('https://dannielnavasportafolio.herokuapp.com/');
+  window.open('https://danniel.dev/');
 }
 ```
 
