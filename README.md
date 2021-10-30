@@ -1,6 +1,17 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/DannielNavas/DannielNavas/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+![Danniel Dev Github](./ReadmeGithub.png)
 
-### Hello I'am Danniel Navas 👋
+<div align="center">
+  <a href="https://www.instagram.com/_dannieldev/" target="_blank">
+    <img src="./instagram.png" alt="Danniel Dev Instagram" width="42" height="42">
+  </a>
+  <a href="https://www.linkedin.com/in/luis-daniel-gordo-navas-28102386/" target="_blank">
+    <img src="./linkedin.png" alt="Danniel Dev Linkedin" width="42" height="42">
+  </a>
+  <a href="https://www.youtube.com/channel/UC-WOFSnewqJ1CRjFuZYaYEQ" target="_blank">
+    <img src="./youtube.png" alt="Danniel Dev Youtube" width="42" height="42">
+  </a>
+</div>
+
 ```javascript
 (💻) => {
   return "Frontend developer.";
@@ -25,17 +36,8 @@
   window.open('https://dannielnavasportafolio.herokuapp.com/');
 }
 ```
-<!--
-**DannielNavas/DannielNavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://app.daily.dev/DailyDevTips"><img src="devcard.svg" width="250" alt="Chris Bongers's Dev Card"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>Iconos diseñados por <a href="https://www.flaticon.es/autores/laisa-islam-ani" title="Laisa Islam Ani">Laisa Islam Ani</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
