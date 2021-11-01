@@ -41,14 +41,14 @@
 }
 ```
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="devcard.svg" width="250" alt="Chris Bongers's Dev Card"/></a>
-
 <div align="center">
 
   [![Danniel Navas  GitHub stats](https://github-readme-stats.vercel.app/api?username=DannielNavas&hide=contribs,issues&show_icons=true&theme=aura_dark&count_private=true&count_private_repos=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielNavas&langs_count=4)](https://github.com/DannielNavas/dannieldev)
+
+  <a href="https://app.daily.dev/DailyDevTips"><img src="devcard.svg" width="250" alt="Chris Bongers's Dev Card"/></a>
 
 </div>
 
