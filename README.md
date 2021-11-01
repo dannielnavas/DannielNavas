@@ -27,7 +27,7 @@
   return "Husband and father.";
 }
 (📫) => {
-  // "Questions ->" 
+  // "Questions ->"
   window.location.href = "dannielnavas@gmail.com";
 }
 (⚡) => {
@@ -43,13 +43,16 @@
 
 <div align="center">
 
-  [![Danniel Navas  GitHub stats](https://github-readme-stats.vercel.app/api?username=DannielNavas&hide=contribs,issues&show_icons=true&theme=aura_dark&count_private=true&count_private_repos=true)](https://github.com/anuraghazra/github-readme-stats)
+  ## Un poco de lo que encontraras aqui
+  
+  [![Danniel Navas  GitHub stats](https://github-readme-stats.vercel.app/api?username=DannielNavas&hide=contribs,issues&show_icons=true&theme=aura_dark&count_private=true&count_private_repos=true)](https://github.com/DannielNavas)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielNavas&langs_count=2&theme=aura_dark)](https://github.com/DannielNavas)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DannielNavas&&repo=dannieldev&theme=aura_dark)](https://github.com/DannielNavas/dannieldev)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DannielNavas&&repo=podcasttrek&theme=aura_dark)](https://github.com/DannielNavas/podcasttrek)
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielNavas&langs_count=4)](https://github.com/DannielNavas/dannieldev)
-
-  <a href="https://app.daily.dev/DailyDevTips"><img src="devcard.svg" width="250" alt="Chris Bongers's Dev Card"/></a>
-
-</div>
+<a href="https://app.daily.dev/DailyDevTips"><img src="devcard.svg" width="250" alt="Chris Bongers's Dev Card"/></a>
 
 <div>Iconos diseñados por <a href="https://www.flaticon.es/autores/laisa-islam-ani" title="Laisa Islam Ani">Laisa Islam Ani</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
+
+<div>
