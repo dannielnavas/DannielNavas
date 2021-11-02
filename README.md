@@ -14,6 +14,9 @@
   <a href="https://www.youtube.com/channel/UC-WOFSnewqJ1CRjFuZYaYEQ" target="_blank">
     <img src="./youtube.png" alt="Danniel Dev Youtube" width="42" height="42">
   </a>
+  <a href="https://twitter.com/DevDanniel" target="_blank">
+    <img src="./twitter.png" alt="Danniel Dev Twitter" width="42" height="42">
+  </a>
 </div>
 
 ```javascript
