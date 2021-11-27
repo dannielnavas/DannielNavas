@@ -54,8 +54,9 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DannielNavas&&repo=podcasttrek&theme=aura_dark)](https://github.com/DannielNavas/podcasttrek)
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="devcard.svg" width="250" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DannielNavas"><img src="devcard.svg" width="250" alt="Chris Bongers's Dev Card"/></a>
 
 <div>Iconos diseñados por <a href="https://www.flaticon.es/autores/laisa-islam-ani" title="Laisa Islam Ani">Laisa Islam Ani</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
+
 
 <div>
