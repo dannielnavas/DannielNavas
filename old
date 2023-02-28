@@ -1,0 +1,60 @@
+![Danniel Dev Github](./ReadmeGithub.png)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</div>
+
+<div align="center">
+  <a href="https://www.instagram.com/_dannieldev/" target="_blank">
+    <img src="./instagram.png" alt="Danniel Dev Instagram" width="42" height="42">
+  </a>
+  <a href="https://www.linkedin.com/in/luis-daniel-gordo-navas-28102386/" target="_blank">
+    <img src="./linkedin.png" alt="Danniel Dev Linkedin" width="42" height="42">
+  </a>
+  <a href="https://www.youtube.com/channel/UC-WOFSnewqJ1CRjFuZYaYEQ" target="_blank">
+    <img src="./youtube.png" alt="Danniel Dev Youtube" width="42" height="42">
+  </a>
+  <a href="https://twitter.com/DevDanniel" target="_blank">
+    <img src="./twitter.png" alt="Danniel Dev Twitter" width="42" height="42">
+  </a>
+</div>
+
+```javascript
+(💻) => {
+  return "Frontend developer.";
+}
+(🔭) => {
+  return "Space fanatic.";
+}
+(💖) => {
+  return "Husband and father.";
+}
+(📫) => {
+  // "Questions ->"
+  window.location.href = "dannielnavas@gmail.com";
+}
+(⚡) => {
+  return "Anime and science fiction fan."
+}
+(🎧) => {
+  window.open('https://open.spotify.com/user/darker13-co');
+}
+(🖥) => {
+  window.open('https://danniel.dev/');
+}
+```
+
+<div align="center">
+
+## Un poco de lo que encontraras aqui
+
+[![Danniel Navas  GitHub stats](https://github-readme-stats.vercel.app/api?username=DannielNavas&hide=contribs,issues&show_icons=true&theme=aura_dark&count_private=true&count_private_repos=true)](https://github.com/DannielNavas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielNavas&langs_count=2&theme=aura_dark)](https://github.com/DannielNavas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DannielNavas&&repo=dannieldev&theme=aura_dark)](https://github.com/DannielNavas/dannieldev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DannielNavas&&repo=podcasttrek&theme=aura_dark)](https://github.com/DannielNavas/podcasttrek)
+
+<a href="https://app.daily.dev/DannielNavas"><img src="devcard.svg" width="250" alt="Chris Bongers's Dev Card"/></a>
+
+<div>Iconos diseñados por <a href="https://www.flaticon.es/autores/laisa-islam-ani" title="Laisa Islam Ani">Laisa Islam Ani</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
+
+<div>
