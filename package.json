@@ -1,0 +1,15 @@
+{
+  "name": "DannielNavas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DannielNavas/DannielNavas.git",
+  "author": "Danniel Navas <dannielnavas@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "update": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}

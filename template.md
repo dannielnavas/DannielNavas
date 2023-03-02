@@ -31,4 +31,4 @@
 
 ## Articulos
 
-<ul><li><a href="https://dev.to/dannieldev/devto-en-espanol-4mgb">Dev.to en español<a/></li><li><a href="https://dev.to/dannieldev/agregar-un-step-de-coverage-en-github-actions-frontend-angular-2poe">Agregar un step de coverage en github actions - Frontend (Angular)<a/></li><li><a href="https://dev.to/dannieldev/como-crear-pull-request-template-y-en-espanol-2pbb">Como crear Pull request template y en español<a/></li></ul>
+%{{latest_Article}}%
