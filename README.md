@@ -16,7 +16,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DannielNavas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielNavas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-#Read Post
+## Read Post
+
 <a href="https://app.daily.dev/DannielNavas"><img src="devcard.svg" width="250" alt="Chris Bongers's Dev Card"/></a>
 
 ## 🐦 Latest Tweet
@@ -29,6 +30,21 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Articulos
+# Articulos
 
-<ul><li><a href="https://dev.to/dannieldev/devto-en-espanol-4mgb">Dev.to en español<a/></li><li><a href="https://dev.to/dannieldev/agregar-un-step-de-coverage-en-github-actions-frontend-angular-2poe">Agregar un step de coverage en github actions - Frontend (Angular)<a/></li><li><a href="https://dev.to/dannieldev/como-crear-pull-request-template-y-en-espanol-2pbb">Como crear Pull request template y en español<a/></li></ul>
+## [Dev.to en español](https://dev.to/dannieldev/devto-en-espanol-4mgb)
+
+
+    En días anteriores estuve leyendo un post en el que se preguntaban si existía más contenido en... 
+
+## [Agregar un step de coverage en github actions - Frontend (Angular)](https://dev.to/dannieldev/agregar-un-step-de-coverage-en-github-actions-frontend-angular-2poe)
+
+
+    Con la llegada de github actions se ha simplificado la creación de flujos CI/CD y uno de los pasos... 
+
+## [Como crear Pull request template y en español](https://dev.to/dannieldev/como-crear-pull-request-template-y-en-espanol-2pbb)
+
+
+    Esta vez será poco texto, la idea de este post es dejar un template para tus pull request, sea en... 
+
+

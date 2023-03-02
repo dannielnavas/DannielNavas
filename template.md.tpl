@@ -16,7 +16,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DannielNavas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielNavas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-#Read Post
+## Read Post
+
 <a href="https://app.daily.dev/DannielNavas"><img src="devcard.svg" width="250" alt="Chris Bongers's Dev Card"/></a>
 
 ## 🐦 Latest Tweet
@@ -29,6 +30,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Articulos
+# Articulos
 
-%{{latest_Article}}%
+%{{article}}%
