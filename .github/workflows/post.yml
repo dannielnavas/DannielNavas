@@ -1,0 +1,28 @@
+name: PostReadme
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+        - uses: actions/checkout@v2
+        - uses: actions/setup-node@v1
+          with:
+              node-version: "16"
+        - run: npm install -g yarn
+        - run: yarn install
+        - run: yarn run generate
+        - run: |
+            git config --global user.email "dannielnavas@gmail.com"
+            git config --global user.name "DannielNavas"
+            git add .
+            git commit -m "Update README.md"
+            git push
