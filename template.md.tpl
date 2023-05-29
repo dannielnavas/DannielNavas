@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-🔭 Trabajo en una startup Colombiana llamada TUL 💪 💚<br>👨‍🎓 Estoy aprendiendo TypeScript<br>💬 Pregúntame sobre Angular, JavaScript, TypeScript<br>⚡ Fanático de Star Trek
+🔭 Trabajo en una startup Colombiana llamada TUL 💪 💚<br>👨‍🎓 Estoy aprendiendo vueJs<br>💬 Pregúntame sobre Angular, JavaScript, TypeScript<br>⚡ Fanático de Star Trek
 
 
 ## 🌐 Socials:
