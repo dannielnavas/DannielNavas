@@ -26,6 +26,11 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Articulos
 
+## [Cómo crear pipes custom en Angular](https://dev.to/dannieldev/como-crear-pipes-custom-en-angular-4epm)
+
+
+    Los "pipes" son una característica esencial en Angular que posibilita la transformación de la salida... 
+
 ## [Dev.to en español](https://dev.to/dannieldev/devto-en-espanol-4mgb)
 
 
@@ -35,10 +40,5 @@
 
 
     Con la llegada de github actions se ha simplificado la creación de flujos CI/CD y uno de los pasos... 
-
-## [Como crear Pull request template y en español](https://dev.to/dannieldev/como-crear-pull-request-template-y-en-espanol-2pbb)
-
-
-    Esta vez será poco texto, la idea de este post es dejar un template para tus pull request, sea en... 
 
 
