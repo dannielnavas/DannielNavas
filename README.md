@@ -26,6 +26,11 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Articulos
 
+## [Validación de tokens de reCAPTCHA en Lambda de AWS](https://dev.to/dannieldev/validacion-de-tokens-de-recaptcha-en-lambda-de-aws-46ek)
+
+
+    El reCAPTCHA de Google es una herramienta que ayuda a proteger tus sitios web y aplicaciones de spam... 
+
 ## [Cómo crear pipes custom en Angular](https://dev.to/dannieldev/como-crear-pipes-custom-en-angular-4epm)
 
 
@@ -35,10 +40,5 @@
 
 
     En días anteriores estuve leyendo un post en el que se preguntaban si existía más contenido en... 
-
-## [Agregar un step de coverage en github actions - Frontend (Angular)](https://dev.to/dannieldev/agregar-un-step-de-coverage-en-github-actions-frontend-angular-2poe)
-
-
-    Con la llegada de github actions se ha simplificado la creación de flujos CI/CD y uno de los pasos... 
 
 
