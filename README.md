@@ -26,6 +26,11 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Articulos
 
+## [Cómo mostrar tus artículos, videos, etc. en tu README de GitHub de forma dinamica](https://dev.to/dannieldev/como-mostrar-tus-articulos-videos-etc-en-tu-readme-de-github-2ek1)
+
+
+    Introducción:  En este tutorial, te mostraré cómo mostrar tus artículos, videos, etc. en tu README de... 
+
 ## [Validación de tokens de reCAPTCHA en Lambda de AWS](https://dev.to/dannieldev/validacion-de-tokens-de-recaptcha-en-lambda-de-aws-46ek)
 
 
@@ -35,10 +40,5 @@
 
 
     Los "pipes" son una característica esencial en Angular que posibilita la transformación de la salida... 
-
-## [Dev.to en español](https://dev.to/dannieldev/devto-en-espanol-4mgb)
-
-
-    En días anteriores estuve leyendo un post en el que se preguntaban si existía más contenido en... 
 
 
