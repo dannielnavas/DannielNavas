@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Navas</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on [DannielDev](https://danniel.dev)
+- 🔭 I’m currently working on [GET](https://globalenterprise.com.co/)
 
 - 👨‍💻 All of my projects are available at [https://danniel.dev](https://danniel.dev)
 
