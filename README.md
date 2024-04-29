@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Navas</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on [GET](https://globalenterprise.com.co/)
+- 🔭 I’m currently working on [DannielDev](https://danniel.dev)
 
 - 👨‍💻 All of my projects are available at [https://danniel.dev](https://danniel.dev)
 
@@ -23,7 +23,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dannielnavas&show_icons=true&locale=en&layout=compact" alt="dannielnavas" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# Articulos
+# Articles
 
 ## [Despliega tu Proyecto Gratis en Firebase: Una Guía Paso a Paso](https://dev.to/dannieldev/despliega-tu-proyecto-gratis-en-firebase-una-guia-paso-a-paso-4542)
 
